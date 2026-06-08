@@ -1,0 +1,13 @@
+response_id,nps_score,user_group,comment
+R-2001,4,new_user,"Onboarding was confusing. No clear first step. I almost gave up before I even started using it."
+R-2002,3,trial_user,"The pricing isn't clear. I couldn't tell what the trial included so I hesitated to add my card."
+R-2003,2,trial_user,"I didn't trust the product enough to enter payment info. It asked for too much without explaining why. I went and read reviews elsewhere first."
+R-2004,5,returning_user,"Once I got past the confusing setup it was great, but that onboarding nearly made me leave. Please add confirmation messages."
+R-2005,3,new_user,"Had to verify my identity and then my payment separately with no confirmation. I redid it twice and then emailed support."
+R-2006,2,trial_user,"Unclear pricing made me lose trust. Low trust made me do a bunch of extra checking before committing. Felt like work."
+R-2007,4,new_user,"I contacted support during onboarding because nothing confirmed my actions. A simple 'you're all set' would have prevented that ticket."
+R-2008,1,trial_user,"Almost dropped off. Confusing onboarding plus unclear pricing plus no trust signals. The whole thing felt risky for a new user."
+R-2009,5,returning_user,"Good product overall. My only complaint is the early experience: trust wasn't established, so I did extra verification before trusting it with payment."
+R-2010,3,new_user,"Why is the first-time setup so unclear? I expected a guided path. Instead I clicked around and eventually emailed support."
+R-2011,2,trial_user,"The combination of vague pricing and identity verification with no explanation made me suspicious. I nearly abandoned signup."
+R-2012,4,new_user,"Onboarding confusion led me to contact support, which led me to almost cancel. Clearer steps would reduce both support load and drop-off."

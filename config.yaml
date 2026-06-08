@@ -1,0 +1,31 @@
+# ux-evidence-graph configuration
+# Values here are defaults. Anything set in a .env file (or real environment
+# variables) overrides the lmstudio/embedding settings below at runtime.
+
+project_name: ux-evidence-graph
+database_path: data/processed/uxeg.sqlite
+
+# Chunking controls how long documents are split before extraction.
+chunk_size_words: 900
+chunk_overlap_words: 120
+
+lmstudio:
+  base_url: http://localhost:1234/v1
+  api_key: lm-studio
+  chat_model: change-this-to-your-loaded-model
+  embedding_model: change-this-to-your-embedding-model
+
+embedding:
+  provider: lmstudio                # "lmstudio" or "sentence_transformers"
+  fallback_provider: sentence_transformers
+
+retrieval:
+  top_k_chunks: 8
+  top_k_nodes: 10
+  max_graph_depth: 2
+  include_pending_edges: true
+  minimum_edge_confidence: 0.45
+
+review:
+  default_edge_status: pending
+  use_rejected_edges: false

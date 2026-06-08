@@ -1,0 +1,31 @@
+UX Research Interview 01
+Participant: P1, small business owner, new customer (signed up 3 weeks ago)
+Topic: First-time setup and onboarding
+
+Moderator: Walk me through what happened when you first signed up.
+
+P1: Honestly, the signup itself was fine, that part was quick. The trouble started right after. I landed on this dashboard and there were a lot of options but no clear "do this first" step. I wasn't sure what onboarding step I was supposed to do, so I just clicked around for a while. It felt confusing.
+
+Moderator: What were you trying to accomplish?
+
+P1: I just wanted to connect my account and start using the product. But the onboarding flow kept asking me for things I didn't understand yet. At one point it asked me to verify my identity, then later it asked me to verify my payment method separately. I ended up doing the verification twice because I wasn't sure the first one worked. There was no confirmation message.
+
+Moderator: How did that make you feel?
+
+P1: Frustrated, a little anxious. When a tool asks for payment details and identity stuff but doesn't confirm anything, I start to wonder if it's legit. I didn't fully trust it yet. So I actually opened a second browser tab and searched for reviews of the company before continuing. That cost me probably fifteen minutes.
+
+Moderator: Did you consider stopping?
+
+P1: Yeah. I almost gave up and closed the tab. If I hadn't already told my business partner about it, I think I would have dropped off completely. The lack of trust plus the confusing onboarding almost made me quit.
+
+Moderator: Did you contact anyone for help?
+
+P1: I emailed support because I couldn't tell if my payment went through. They were nice but it took a day to get back to me, and by then I'd already figured it out myself. Still, I shouldn't have needed to email them at all. A simple confirmation screen would have saved everyone the trouble.
+
+Moderator: What would have made this better?
+
+P1: A clear first step. Tell me exactly what to do. Confirm each action so I know it worked. And explain why you need my payment and identity info up front, so I don't get suspicious. If you build that trust early, I won't need to go searching for reviews or emailing support.
+
+Moderator: Anything else?
+
+P1: Just that the pricing was also unclear. I wasn't sure if I'd be charged during the trial. That added to the anxiety about entering payment details. Unclear pricing plus identity verification with no confirmation is a bad combination for a brand new user.

@@ -1,0 +1,11 @@
+ticket_id,created_at,user_segment,ticket
+T-1001,2026-01-04,new_user,"I just signed up and I'm stuck on onboarding. It's not clear what the first step is. I clicked around but nothing tells me what to do first. Can you point me to a setup guide?"
+T-1002,2026-01-05,new_user,"Did my payment go through? I entered my card during setup but never got a confirmation. I tried again because I wasn't sure it worked the first time. Please confirm you didn't charge me twice."
+T-1003,2026-01-05,trial_user,"Your pricing page is confusing. I can't tell what's included in the trial versus what I'll be charged for. I almost didn't sign up because of this. Please clarify the tiers."
+T-1004,2026-01-06,trial_user,"Before I enter my credit card I want to know: is this company legit? There were no trust signals during onboarding so I got nervous. I had to look you up myself. A security/trust page during signup would help."
+T-1005,2026-01-07,new_user,"The identity verification step asked for a lot of personal info with no explanation of why. It made me uncomfortable and I nearly abandoned the setup. Why do you need this?"
+T-1006,2026-01-08,trial_user,"I was about to cancel during onboarding because I didn't trust entering payment details when the pricing was unclear. Talked myself into staying but it was close."
+T-1007,2026-01-09,new_user,"Spent 20 minutes confused during onboarding, then emailed support. Turns out I missed a step that was not clearly marked. Please make the required steps more obvious."
+T-1008,2026-01-10,returning_user,"Why does verification happen twice - once for identity and once for payment? With no confirmation between them I assumed it failed and redid everything. Frustrating."
+T-1009,2026-01-11,trial_user,"I contacted support mostly because the onboarding and pricing left me with questions. If those were clearer I wouldn't have needed to reach out at all."
+T-1010,2026-01-12,new_user,"Unclear pricing plus being asked for payment up front made me distrust the product. I searched for reviews before continuing. Lost trust early = almost lost a customer."

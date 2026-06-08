@@ -1,0 +1,31 @@
+UX Research Interview 02
+Participant: P2, freelance designer, evaluating the product for a client
+Topic: Trust, pricing clarity, and onboarding
+
+Moderator: You mentioned you almost didn't finish setting up. Tell me more.
+
+P2: Right. I was setting this up on behalf of a client, so I was extra careful. The onboarding was confusing because it mixed account setup with billing setup. I couldn't tell which steps were required to just try the product versus which steps would actually charge money.
+
+Moderator: What specifically was unclear?
+
+P2: The pricing. There were three tiers but the differences weren't explained in plain language. I wasn't sure which features were in the trial. Pricing uncertainty made me hesitant to enter a credit card. And when a product is vague about money, I trust it less. For a client project, trust is everything.
+
+Moderator: How did the lack of trust affect what you did?
+
+P2: I did extra verification on my own. I looked up the company, read third-party reviews, checked their security page, and even asked in a designer Slack group whether anyone had used it. That's a lot of extra work that the product should have prevented by being clearer.
+
+Moderator: Did you reach out to support?
+
+P2: I did, twice. Once about pricing and once about whether my data would be deleted if I cancelled. Both times the answers were fine but slow. I get the sense their support gets a lot of these questions, which tells me the onboarding and pricing pages aren't doing their job. If the product explained things better, support wouldn't be so buried.
+
+Moderator: Did you consider dropping off?
+
+P2: Definitely. The combination of unclear pricing and low trust almost made me abandon it. I only continued because my client specifically asked about this tool. A regular user would have left.
+
+Moderator: What's the underlying issue, in your view?
+
+P2: It all comes back to trust. Confusing onboarding, unclear pricing, and asking for sensitive info without explanation all chip away at trust. Low trust then causes people to do extra verification, contact support, or just leave. I think a lot of these separate complaints are actually the same root problem wearing different hats.
+
+Moderator: If you could change one thing?
+
+P2: Be transparent early. Plain-language pricing, a clear onboarding path, and an explanation of why you need identity and payment info. Trust first, everything else follows.
